@@ -4,13 +4,14 @@
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
+updates: only P-AS, Lactozilla can acess the project! 
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
+| 5.0.x   | ✅:                |
 | 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| < 4.0   | ✖️:                |
 
 ## Reporting a Vulnerability
 
@@ -20,3 +21,4 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 ITS ILLEGAL FOR HACKERS TO INSPECT THIS REPOSITORY!
+Newer mods are for 2.2.7 or later.
